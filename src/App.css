@@ -1,0 +1,34 @@
+.main-app {
+    text-align: center;
+    margin: 100px;
+  }
+  
+  body {
+    background-color: #6fa79b;
+  }
+  
+  .cta-button {
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    min-width: 250px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .mint-button {
+    background:rgb(17, 209, 75)
+  }
+  
+  .connect-wallet-button {
+    background: orange;
+  }
+  
+  .contract-button {
+    background: rgb(10, 95, 221);
+  }
+  
+  h1 {
+    color: orange;
+  }
